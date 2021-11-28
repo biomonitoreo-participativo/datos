@@ -1,37 +1,52 @@
-especie, grupos_indicadoras
-Panthera onca, ACLAP
-Puma concolor, ACLAP
-Leopardus pardalis, ACLAP
-Puma yagouaroundi, ACLAP
-Leopardus tigrinus, ACLAP
-Leopardus wiedii, ACLAP
-Pecari tajacu, ACLAP
-Mazama temama, ACLAP
-Odocoileus virginianus, ACLAP
-Tapirus bairdii, ACLAP
-Alouatta palliata, ACLAP
-Ateles geoffroyi, ACLAP
-Cebus capucinus, ACLAP
-Cebus imitator, ACLAP
-Saimiri oerstedii, ACLAP
-Dasyprocta punctata, ACLAP
-Cuniculus paca, ACLAP
-Pharomachrus mocinno, ACLAP
-Trogon rufus, ACLAP
-Trogon bairdii, ACLAP
-Trogon caligatus, ACLAP
-Trogon massena, ACLAP
-Trogon collaris, ACLAP
-Procnias tricarunculatus, ACLAP
-Myadestes melanops, ACLAP
-Tinamus major, ACLAP
-Nothocercus bonapartei, ACLAP
-Crypturellus soui, ACLAP
-Crax rubra, ACLAP
-Penelope purpurascens, ACLAP
-Ortalis cinereiceps, ACLAP
-Chamaepetes unicolor, ACLAP
-Atelopus varius, ACLAP
-Tayassu pecari, ACLAP
-Cotinga ridgwayi, ACLAP
-Spizaetus ornatus, ACLAP
+id,especie, grupos_indicadoras,grupos_nomenclaturales
+1,Panthera onca,ACLAP:ACOSA:ACAHN:ACAT:ACC:ACG:ACLAC:ACOPAC:ACT:ACTo,Felinos
+2,Puma concolor,ACLAP:ACOSA:ACAHN:ACAT:ACC:ACG:ACLAC:ACOPAC:ACT:ACTo,Felinos
+3,Leopardus pardalis,ACLAP:ACOSA:ACAHN:ACAT:ACC:ACG:ACLAC:ACOPAC:ACT:ACTo,Felinos
+4,Puma yagouaroundi,ACLAP:ACOSA:ACAHN:ACAT:ACC:ACG:ACLAC:ACOPAC:ACT:ACTo,Felinos
+5,Leopardus tigrinus,ACLAP:ACOSA:ACAHN:ACAT:ACC:ACG:ACLAC:ACOPAC:ACT:ACTo,Felinos
+6,Leopardus wiedii,ACLAP:ACOSA:ACAHN:ACAT:ACC:ACG:ACLAC:ACOPAC:ACT:ACTo,Felinos
+7,Pecari tajacu,ACLAP,Ungulados
+8,Mazama temama,ACLAP,Ungulados
+9,Odocoileus virginianus,ACLAP,Ungulados
+10,Tapirus bairdii,ACLAP,Ungulados
+11,Alouatta palliata,ACLAP,Otros
+12,Ateles geoffroyi,ACLAP,Otros
+13,Cebus imitator,ACLAP,Otros
+14,Saimiri oerstedii,ACLAP,Otros
+15,Dasyprocta punctata,ACLAP,Guatusas y tepezcuintles
+16,Cuniculus paca,ACLAP,Guatusas y tepezcuintles
+17,Pharomachrus mocinno,ACLAP,Otros
+18,Trogon rufus,ACLAP,Otros
+19,Trogon bairdii,ACLAP,Otros
+20,Trogon caligatus,ACLAP,Otros
+21,Trogon massena,ACLAP,Otros
+22,Trogon collaris,ACLAP,Otros
+23,Procnias tricarunculatus,ACLAP,Otros
+24,Myadestes melanops,ACLAP,Otros
+25,Tinamus major,ACLAP,Otros
+26,Nothocercus bonapartei,ACLAP,Otros
+27,Crypturellus soui,ACLAP,Otros
+28,Crax rubra,ACLAP,Otros
+29,Penelope purpurascens,ACLAP,Otros
+30,Ortalis cinereiceps,ACLAP,Otros
+31,Chamaepetes unicolor,ACLAP,Otros
+32,Atelopus varius,ACLAP,Otros
+33,Tayassu pecari,ACLAP,Ungulados
+34,Spizaetus ornatus,ACLAP,Otros
+35,Cotinga ridgwayi,ACLAP,Otros
+36,Platalea ajaja,ACOSA,Otros
+37,Agamia agami,ACOSA,Otros
+38,Nyctanassa violacea,ACOSA,Otros
+39,Cochlearius cochlearius,ACOSA,Otros
+40,Anhinga anhinga,ACOSA,Otros
+41,Mycteria americana,ACOSA,Otros
+42,Carpodectes antoniae,ACOSA,Otros
+43,Amazilia boucardi,ACOSA,Otros
+44,Habia atrimaxillaris,ACOSA,Otros
+45,Setophaga petechia,ACOSA,Otros
+46,Sarcoramphus papa,ACOSA,Otros
+47,Phyllobates vittatus,ACOSA,Otros
+48,Oophaga granulifera,ACOSA,Otros
+49,Dendrobates auratus,ACOSA,Otros
+50,Corallus ruschenbergerii,ACOSA,Otros
+51,Crocodylus acutus,ACOSA,Otros
