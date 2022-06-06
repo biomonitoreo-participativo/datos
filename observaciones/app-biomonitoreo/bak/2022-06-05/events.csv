@@ -25,8 +25,6 @@ eventID,locality,samplingProtocol,eventRemarks,endEventDate,parentEventID,startE
 2021-03-27T07:33:04.957123,JD-03 El Jardín,Protocolo de Pronamec,,1616855400000,Pronamec,1616848260000,9.534141,metro,-83.708608
 2021-08-22T09:02:55.821629,TC-03 Tres Colinas,Protocolo de Pronamec,,1629644520000,Pronamec,1629630060000,9.117028,metro,-83.078861
 2021-09-19T08:59:32.564952,AB-02 Colorado,Protocolo de Pronamec,,1632063540000,Pronamec,1632057240000,9.011464,metro,-83.023098
-2021-12-07T10:53:45.905165,SJ-02 San Jerónimo,Protocolo de Pronamec,,1638895980000,Pronamec,1638895800000,9.364325,metro,-83.502996
-2022-05-08T16:03:04.199242,TC-03 Tres Colinas,Protocolo de Pronamec,,1652047260000,Pronamec,1652047140000,9.117028,metro,-83.078861
 2020-09-23T12:02:24.997920,RC-02 Santa Rosa,Protocolo de Pronamec,fue visto en el cendero el mirador RC-02 santa Rosa,1600884060000,Pronamec,1600883880000,9.257895,metro,-83.40005
 2020-09-23T13:23:50.215420,RC-02 Santa Rosa,Protocolo de Pronamec,visto finca los Martínez,1600892040000,Pronamec,1600888800000,9.257895,metro,-83.40005
 2020-10-03T14:14:12.969476,RC-01 Guadalajara,Protocolo de Pronamec,finca Efrain zanchez,1601749200000,Pronamec,1601748600000,9.240598,metro,-83.386852
@@ -35,8 +33,6 @@ eventID,locality,samplingProtocol,eventRemarks,endEventDate,parentEventID,startE
 2020-10-09T10:45:02.724391,RC-02 Santa Rosa,Protocolo de Pronamec,zona alta finca Martínez romero.,1602265380000,Pronamec,1602261660000,9.257895,metro,-83.40005
 2020-10-10T13:50:24.062774,RC-02 Santa Rosa,Protocolo de Pronamec,"sona alta,finca Martínez romero",1602354600000,Pronamec,1602346200000,9.257895,metro,-83.40005
 2020-10-10T13:50:26.499356,RC-02 Santa Rosa,Protocolo de Pronamec,"sona alta,finca Martínez romero",1602354600000,Pronamec,1602346200000,9.257895,metro,-83.40005
-2022-05-21T07:17:13.790786,RC-01 Guadalajara,Protocolo de Pronamec,hola,1653138960000,Pronamec,1653138840000,9.240598,metro,-83.386852
-2022-05-21T07:17:15.004836,RC-01 Guadalajara,Protocolo de Pronamec,hola,1653138960000,Pronamec,1653138840000,9.240598,metro,-83.386852
 2021-01-12T10:08:05.888695,RC-02 Santa Rosa,Protocolo de Pronamec,posado en un árbol ,1610467500000,Pronamec,1610466600000,9.257895,metro,-83.40005
 2021-02-27T09:47:34.292701,SG-01 San Gerardo,Protocolo de Pronamec,,1614438600000,Pronamec,1614432600000,9.464485,metro,-83.604121
 2021-03-06T06:20:01.584361,RC-03 Santa María,Protocolo de Pronamec,,1615033140000,Pronamec,1615032840000,9.27667,metro,-83.3789
@@ -50,15 +46,9 @@ eventID,locality,samplingProtocol,eventRemarks,endEventDate,parentEventID,startE
 2021-06-27T07:15:02.697248,RC-01 Guadalajara,Protocolo de Pronamec,pareja ,1624799640000,Pronamec,1624799400000,9.240598,metro,-83.386852
 2021-06-27T07:46:09.601410,RC-01 Guadalajara,Protocolo de Pronamec,canto,1624801500000,Pronamec,1624801500000,9.240598,metro,-83.386852
 2021-08-29T05:50:18.973659,RC-02 Santa Rosa,Protocolo de Pronamec,canto ,1630237500000,Pronamec,1630237380000,9.257895,metro,-83.40005
-2021-12-05T08:04:03.684366,RC-01 Guadalajara,Protocolo de Pronamec,,1638711300000,Pronamec,1638711000000,9.240598,metro,-83.386852
-2022-05-29T07:35:27.283462,RC-01 Guadalajara,Protocolo de Pronamec,,1653830940000,Pronamec,1653830700000,9.240598,metro,-83.386852
-2022-05-29T07:35:29.268974,RC-01 Guadalajara,Protocolo de Pronamec,,1653830940000,Pronamec,1653830700000,9.240598,metro,-83.386852
-2022-05-29T08:51:50.362094,RC-01 Guadalajara,Protocolo de Pronamec,,1653834780000,Pronamec,1653834600000,9.240598,metro,-83.386852
 2020-11-01T12:17:27.018973,JD-01 El Jardín,Protocolo de Pronamec,,1604254620000,Pronamec,1604254500000,9.547534,metro,-83.717324
-2022-05-15T10:53:06.122902,AB-01 Altamira de Biolley-01,Protocolo de Pronamec,Venada pastando ,1652629800000,Pronamec,1652629500000,9.005495,metro,-83.009009
 2021-05-22T08:28:14.036380,BI-03 Biolley,Protocolo de Pronamec,,1621693620000,Pronamec,1621693560000,9.03425,metro,-83.041318
 2020-11-01T12:17:43.111278,JD-01 El Jardín,Protocolo de Pronamec,altura,1604254560000,Pronamec,1602659460000,9.547534,metro,-83.717324
-2021-12-16T15:08:58.448995,PT-01 Pittier,Protocolo de Pronamec,,1639688880000,Pronamec,1639688700000,8.921353,metro,-82.95734
 2020-11-11T08:13:26.461781,SJ-01 San Jerónimo,Protocolo de Pronamec,,1605104100000,Pronamec,1605103920000,9.342268,metro,-83.510679
 2021-01-30T09:00:27.442643,JD-01 El Jardín,Protocolo de Pronamec,,1611914400000,Pronamec,1611909000000,9.547534,metro,-83.717324
 2021-02-21T08:36:12.892528,RC-01 Guadalajara,Protocolo de Pronamec,,1613918100000,Pronamec,1613918040000,9.240598,metro,-83.386852
@@ -67,7 +57,6 @@ eventID,locality,samplingProtocol,eventRemarks,endEventDate,parentEventID,startE
 2020-09-05T07:30:13.101152,SA-01 Savegre Abajo,Protocolo de Pronamec,,1599312600000,Pronamec,1599312300000,9.431213,metro,-83.845292
 2020-09-13T09:36:47.248630,TC-01 Tres Colinas,Protocolo de Pronamec,,1600011360000,Pronamec,1600002300000,9.120107,metro,-83.080353
 2020-09-13T11:46:09.064604,TC-02 Tres Colinas,Protocolo de Pronamec,,1600019160000,Pronamec,1600011900000,9.122722,metro,-83.077531
-2022-03-24T14:26:32.129996,SJ-02 San Jerónimo,Protocolo de Pronamec,comiendo frutos en árbol de higuerón,1648153560000,Pronamec,1648152900000,9.364325,metro,-83.502996
 2021-10-24T20:05:18.900028,SJ-02 San Jerónimo,Protocolo de Pronamec,familia saludable,1635087600000,Pronamec,1635087660000,9.364325,metro,-83.502996
 2020-10-25T10:45:44.381135,BI-01 Biolley,Protocolo de Pronamec,,1603644300000,Pronamec,1603605600000,9.023191,metro,-83.054561
 2020-10-25T10:45:46.637927,BI-01 Biolley,Protocolo de Pronamec,,1603644300000,Pronamec,1603605600000,9.023191,metro,-83.054561
@@ -84,11 +73,6 @@ eventID,locality,samplingProtocol,eventRemarks,endEventDate,parentEventID,startE
 2021-02-20T06:37:42.181048,SJ-02 San Jerónimo,Protocolo de Pronamec,,1613824620000,Pronamec,1613824560000,9.364325,metro,-83.502996
 2021-08-10T05:57:42.049211,SJ-02 San Jerónimo,Protocolo de Pronamec,,1628596620000,Pronamec,1628596560000,9.364325,metro,-83.502996
 2021-08-19T17:33:37.889530,SJ-01 San Jerónimo,Protocolo de Pronamec,,1629415920000,Pronamec,1629415860000,9.342268,metro,-83.510679
-2022-01-28T06:30:42.643280,SJ-02 San Jerónimo,Protocolo de Pronamec,,1643373000000,Pronamec,1643372940000,9.364325,metro,-83.502996
-2022-03-25T05:42:58.376496,SJ-02 San Jerónimo,Protocolo de Pronamec,,1648208520000,Pronamec,1648208520000,9.364325,metro,-83.502996
-2022-03-26T05:23:52.681258,SJ-02 San Jerónimo,Protocolo de Pronamec,vistos en cerro ena,1648293780000,Pronamec,1648293660000,9.364325,metro,-83.502996
-2022-03-26T05:23:54.845446,SJ-02 San Jerónimo,Protocolo de Pronamec,vistos en cerro ena,1648293780000,Pronamec,1648293660000,9.364325,metro,-83.502996
-2022-05-18T08:30:23.147862,SJ-01 San Jerónimo,Protocolo de Pronamec,Especies bastante comunes,1652884140000,Pronamec,1652884020000,9.342268,metro,-83.510679
 2020-11-01T12:17:41.381371,JD-01 El Jardín,Protocolo de Pronamec,,1603563360000,Pronamec,1603555800000,9.547534,metro,-83.717324
 2020-10-18T08:20:12.398439,SJ-02 San Jerónimo,Protocolo de Pronamec,,1602950400000,Pronamec,1602936000000,9.364325,metro,-83.502996
 2020-12-12T17:35:13.219034,SJ-02 San Jerónimo,Protocolo de Pronamec,,1607783400000,Pronamec,1607783400000,9.364325,metro,-83.502996
@@ -108,12 +92,9 @@ eventID,locality,samplingProtocol,eventRemarks,endEventDate,parentEventID,startE
 2021-09-22T13:40:13.939377,SJ-02 San Jerónimo,Protocolo de Pronamec,,1632072600000,Pronamec,1632052800000,9.364325,metro,-83.502996
 2021-10-03T16:38:52.671583,SJ-02 San Jerónimo,Protocolo de Pronamec,,1633285800000,Pronamec,1633271400000,9.364325,metro,-83.502996
 2021-10-13T14:11:48.983931,SJ-02 San Jerónimo,Protocolo de Pronamec,,1633883400000,Pronamec,1633865400000,9.364325,metro,-83.502996
-2022-03-18T10:14:07.913489,SJ-02 San Jerónimo,Protocolo de Pronamec, 15/3/2022,1647624600000,Pronamec,1640259000000,9.364325,metro,-83.502996
 2021-08-13T11:31:45.797593,AB-01 Altamira de Biolley-01,Protocolo de Pronamec,,1628875860000,Pronamec,1628875500000,9.005495,metro,-83.009009
 2021-08-13T11:31:48.774969,AB-01 Altamira de Biolley-01,Protocolo de Pronamec,,1628875860000,Pronamec,1628875500000,9.005495,metro,-83.009009
 2020-11-15T10:11:25.204888,BI-03 Biolley,Protocolo de Pronamec,Solitaria ,1605456660000,Pronamec,1605456420000,9.03425,metro,-83.041318
-2022-04-03T18:52:41.745659,TC-03 Tres Colinas,Protocolo de Pronamec,,1648299600000,Pronamec,1648306800000,9.117028,metro,-83.078861
-2022-05-15T21:29:30.646256,TC-03 Tres Colinas,Protocolo de Pronamec,,1652635680000,Pronamec,1652624640000,9.117028,metro,-83.078861
 2020-11-11T08:17:23.475138,SJ-01 San Jerónimo,Protocolo de Pronamec,,1605104220000,Pronamec,1605104160000,9.342268,metro,-83.510679
 2020-11-14T10:19:58.335239,RC-03 Santa María,Protocolo de Pronamec,,1605370920000,Pronamec,1605370800000,9.27667,metro,-83.3789
 2020-11-14T10:19:59.846055,RC-03 Santa María,Protocolo de Pronamec,,1605370920000,Pronamec,1605370800000,9.27667,metro,-83.3789
@@ -144,8 +125,6 @@ eventID,locality,samplingProtocol,eventRemarks,endEventDate,parentEventID,startE
 2020-10-13T11:01:06.137583,RC-03 Santa María,Protocolo de Pronamec,,1602608400000,Pronamec,1602608340000,9.27667,metro,-83.3789
 2020-11-07T12:50:43.110183,RC-03 Santa María,Protocolo de Pronamec,,1604775000000,Pronamec,1604774760000,9.27667,metro,-83.3789
 2020-12-06T09:52:30.589695,RC-02 Santa Rosa,Protocolo de Pronamec,,1607266800000,Pronamec,1607266740000,9.257895,metro,-83.40005
-2022-05-01T08:08:11.939470,RC-01 Guadalajara,Protocolo de Pronamec,,1651413960000,Pronamec,1651413900000,9.240598,metro,-83.386852
-2022-05-01T08:08:46.751448,RC-01 Guadalajara,Protocolo de Pronamec,,1651414080000,Pronamec,1651414080000,9.240598,metro,-83.386852
 2020-09-20T09:57:43.463695,LU-01 La Luchita,Protocolo de Pronamec,,1600617420000,Pronamec,1600605540000,9.090289,metro,-83.126513
 2020-10-17T09:19:19.008820,LU-01 La Luchita,Protocolo de Pronamec,,1602947940000,Pronamec,1602940920000,9.090289,metro,-83.126513
 2021-05-08T11:04:04.445817,LU-01 La Luchita,Protocolo de Pronamec,,1620493380000,Pronamec,1620490740000,9.090289,metro,-83.126513
@@ -180,11 +159,9 @@ eventID,locality,samplingProtocol,eventRemarks,endEventDate,parentEventID,startE
 2021-08-30T12:09:35.385147,LA-03 Los Ángeles,Protocolo de Pronamec,,1630346940000,Pronamec,1630342860000,9.487542,metro,-83.808659
 2021-08-30T12:09:35.912640,LA-03 Los Ángeles,Protocolo de Pronamec,,1630346940000,Pronamec,1630342860000,9.487542,metro,-83.808659
 2020-11-15T07:46:23.845521,AB-02 Colorado,Protocolo de Pronamec,potrero ,1605444300000,Pronamec,1605486540000,9.011464,metro,-83.023098
-2022-05-17T08:59:15.691970,CB-01 Cabagra,Protocolo de Pronamec,,1652799240000,Pronamec,1652799120000,9.132793,metro,-83.203687
 2020-09-18T09:18:27.178875,AB-01 Altamira de Biolley-01,Protocolo de Pronamec,,1600442100000,Pronamec,1600442100000,9.005495,metro,-83.009009
 2020-09-18T10:03:28.756834,AB-01 Altamira de Biolley-01,Protocolo de Pronamec,,1600445700000,Pronamec,1600444800000,9.005495,metro,-83.009009
 2020-09-18T10:03:30.964644,AB-01 Altamira de Biolley-01,Protocolo de Pronamec,,1600445700000,Pronamec,1600444800000,9.005495,metro,-83.009009
-2022-04-26T17:17:31.860991,SG-01 San Gerardo,Protocolo de Pronamec,Día soleado.. A orillas del río,1651004160000,Pronamec,1651004040000,9.464485,metro,-83.604121
 2020-09-23T08:17:11.826509,RC-01 Guadalajara,Protocolo de Pronamec,cantando ,1600790400000,Pronamec,1600787400000,9.240598,metro,-83.386852
 2020-09-26T16:55:00.075745,RC-01 Guadalajara,Protocolo de Pronamec,perchado cantando ,1601122500000,Pronamec,1601120400000,9.240598,metro,-83.386852
 2020-09-26T16:56:33.275085,RC-01 Guadalajara,Protocolo de Pronamec,perchado cantando ,1601128500000,Pronamec,1601125740000,9.240598,metro,-83.386852
@@ -239,14 +216,3 @@ eventID,locality,samplingProtocol,eventRemarks,endEventDate,parentEventID,startE
 2020-11-20T09:37:57.786884,SJ-01 San Jerónimo,Protocolo de Pronamec,"Umedo, montaña ",1605886080000,Pronamec,1605886320000,9.342268,metro,-83.510679
 2020-11-20T09:37:58.010667,SJ-01 San Jerónimo,Protocolo de Pronamec,"Umedo, montaña ",1605886080000,Pronamec,1605886320000,9.342268,metro,-83.510679
 2021-10-27T16:27:12.764138,RC-02 Santa Rosa,Protocolo de Pronamec,observado en la finca del aguacate,1635287100000,Pronamec,1635283560000,9.257895,metro,-83.40005
-2021-12-28T11:42:51.360432,RC-02 Santa Rosa,Protocolo de Pronamec,tropical sendero el mirador,1640705400000,Pronamec,1640705400000,9.257895,metro,-83.40005
-2022-01-23T16:01:01.862849,RC-02 Santa Rosa,Protocolo de Pronamec,tropical.sendero el mirador montaña,1642951500000,Pronamec,1642950000000,9.257895,metro,-83.40005
-2022-02-10T15:12:53.604973,RC-02 Santa Rosa,Protocolo de Pronamec,observado en la fila el aguacate 🥑 a 2010 metros ,1644484200000,Pronamec,1644483600000,9.257895,metro,-83.40005
-2022-02-10T15:13:01.156307,RC-02 Santa Rosa,Protocolo de Pronamec,observado en la fila el aguacate 🥑 a 2010 metros ,1644484200000,Pronamec,1644483600000,9.257895,metro,-83.40005
-2022-02-10T15:13:15.120399,RC-02 Santa Rosa,Protocolo de Pronamec,observado en la fila el aguacate 🥑 a 2010 metros ,1644484200000,Pronamec,1644483600000,9.257895,metro,-83.40005
-2022-02-10T15:13:16.253200,RC-02 Santa Rosa,Protocolo de Pronamec,observado en la fila el aguacate 🥑 a 2010 metros ,1644484200000,Pronamec,1644483600000,9.257895,metro,-83.40005
-2022-02-10T15:13:16.468786,RC-02 Santa Rosa,Protocolo de Pronamec,observado en la fila el aguacate 🥑 a 2010 metros ,1644484200000,Pronamec,1644483600000,9.257895,metro,-83.40005
-2022-02-10T15:13:16.762717,RC-02 Santa Rosa,Protocolo de Pronamec,observado en la fila el aguacate 🥑 a 2010 metros ,1644484200000,Pronamec,1644483600000,9.257895,metro,-83.40005
-2022-02-10T15:15:12.490325,RC-02 Santa Rosa,Protocolo de Pronamec,observado en la fila de aguacate.,1644484200000,Pronamec,1644483600000,9.257895,metro,-83.40005
-2022-02-10T15:15:13.768245,RC-02 Santa Rosa,Protocolo de Pronamec,observado en la fila de aguacate.,1644527400000,Pronamec,1644526800000,9.257895,metro,-83.40005
-2022-04-17T15:37:36.975349,RC-02 Santa Rosa,Protocolo de Pronamec,Los vi perchados cantando,1650213360000,Pronamec,1650212400000,9.257895,metro,-83.40005
